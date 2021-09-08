@@ -1,6 +1,6 @@
 <h1>Hello World!</h1>
 
-<div justify-content="center">
+<div align="center">
 <a href="https://www.linkedin.com/in/lirbre/">
   <img alt="lirbre on LinkedIn" width="40px" src="https://user-images.githubusercontent.com/86065449/132470182-2920d244-fe5f-45c1-b5f6-10112753b1c7.png" />
 </a>
