@@ -11,6 +11,6 @@
   
 <br>
 
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently doing some projects using Libraries / Data visualization.
 - 💬 Ask me about anything. :)
 - 🛠 Currently working on a attractive profile.
