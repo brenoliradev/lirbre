@@ -13,7 +13,7 @@
   
 <br>
 
-- 🌱 I’m currently studying React!
+- 🌱 I’m currently working on personal projects using React!
 - 💬 Ask me about anything. :)
 - 🛠 Currently working on a attractive profile.
 
