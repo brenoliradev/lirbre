@@ -13,7 +13,8 @@
   
 <br>
 
-- 🌱 I’m currently working on personal projects using React!
+- 🌱 I’m a ReactJS developer.
+- 🖱 Going deeper in NextJS and Typescript.
 - 💬 Ask me about anything. :)
 - 🛠 Currently working on a attractive profile.
 
