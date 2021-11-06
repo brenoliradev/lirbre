@@ -16,7 +16,6 @@
 - 🌱 I’m a ReactJS developer.
 - 🖱 Going deeper in Blockchain Frontend.
 - 💬 Ask me about anything. :)
-- 🛠 Currently working on a attractive profile.
 
 <br>
 
