@@ -13,12 +13,12 @@
   
 <br>
 
-- 🌱 I’m a ReactJS developer.
-- 🖱 Going deeper in Blockchain Frontend.
+- 🌱 I'm a Frontend developer. 
+- 🛠 Mainly using React/Next.
+- 🖱 Diving on Blockchain and APIs used on that.
 - 💬 Ask me about anything. :)
 
 <br>
-
 <a href="https://github.com/lirbre">
   <img height="auto" width="100%" src="https://github-readme-stats.vercel.app/api?username=lirbre&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
 </a> 
