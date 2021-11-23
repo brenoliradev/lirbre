@@ -15,6 +15,7 @@
 
 - 🌱 I'm a Frontend developer. 
 - 🛠 Mainly using React/Next.
+- 🎨 StyledComponents / Material UI.
 - 🖱 Diving on Blockchain and APIs used on that.
 - 💬 Ask me about anything. :)
 
