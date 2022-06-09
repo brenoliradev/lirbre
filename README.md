@@ -15,8 +15,8 @@
 
 - 🌱 I'm a Frontend developer. 
 - 🛠 Mainly using React/Next.
-- 🎨 StyledComponents / Material UI.
-- 🖱 Diving on Blockchain and APIs used on that.
+- 🎨 StyledComponents / Material UI / TailwindCSS.
+- 🖱 Solana, Ethereum e Wax Blockchain enviroment.
 - 💬 Ask me about anything. :)
 
 <br>
