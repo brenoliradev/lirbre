@@ -16,7 +16,8 @@
 - 🌱 I'm a Frontend developer. 
 - 🛠 Mainly using React/Next.
 - 🎨 StyledComponents / Material UI / TailwindCSS.
-- 🖱 Solana, Ethereum e Wax Blockchain enviroment.
+- 🖱 Solana, Ethereum and Wax Blockchain enviroment.
+- 🧪 Currently understanding testing aka Jest, React Testing Library etc.
 - 💬 Ask me about anything. :)
 
 <br>
