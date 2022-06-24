@@ -14,7 +14,7 @@
 <br>
 
 - 🌱 I'm a Frontend developer. 
-- 🛠 Mainly using React/Next.
+- 🛠 Mainly using React/Next with TypeScript.
 - 🎨 StyledComponents / Material UI / TailwindCSS / Framer Motion.
 - 🖱 Solana, Ethereum and Wax Blockchain enviroment.
 - 🧪 Currently understanding testing aka Jest, React Testing Library etc.
