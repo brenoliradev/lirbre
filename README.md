@@ -1,5 +1,3 @@
-<h1>Hello World!</h1>
-
 <div align="left" style:"width: 100%">
 <a href="https://www.linkedin.com/in/lirbre/" target="_blank">
   <img alt="lirbre on LinkedIn" src="https://user-images.githubusercontent.com/86065449/133801317-9ced53f2-8cd3-45e3-a1aa-3ff5dfe2ba8a.png" style="width:50px"/></a>
@@ -18,16 +16,6 @@
 - 🌱 I'm a Frontend developer. 
 - 🛠 Mainly using React/Next with TypeScript.
 - 🎨 StyledComponents / Material UI / TailwindCSS / Framer Motion / React-Query etc.
-- 🧪 Jest, Cypress.
-- 🖱 Solana, Ethereum and Wax Blockchain enviroment.
-- 📚 Currently understanding GraphQL.
+- 🧪 Jest, Cypress, Playwright.
+
 - 💬 Ask me about anything. :)
-
-<br>
-<a href="https://github.com/lirbre">
-  <img height="auto" width="100%" src="https://github-readme-stats.vercel.app/api?username=lirbre&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-</a> 
-
-<a href="https://github.com/lirbre">
-  <img height="auto" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lirbre&layout=compact&langs_count=7&theme=graywhite"/>
-</a> 
